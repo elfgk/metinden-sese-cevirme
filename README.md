@@ -67,9 +67,13 @@ Push edin (git push origin feature/YourFeature)
 Pull request oluşturun
 
 **🧑‍💻 Geliştirici Bilgileri**
+
 GitHub: https://github.com/elfgk
+
 LinkedIn: https://www.linkedin.com/in/elfgk/
+
 Kaggle: https://www.kaggle.com/elfgkk
+
 StackOverflow: https://stackoverflow.com/users/27559679/elfgk
 
 
