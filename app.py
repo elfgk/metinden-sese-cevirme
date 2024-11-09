@@ -26,7 +26,7 @@ def text_to_speech(file, text_input, lang_input):
 
         # Ses dosyasının yolunu döndür
         if os.path.exists(dosya_adi):
-            return dosya_adi  # Bu dosyayı indirme linki olarak döndüreceğiz
+            return dosya_adi  
         else:
             return "Ses kaydedilemedi."
     except Exception as e:
@@ -51,5 +51,5 @@ with gr.Blocks() as demo:
         outputs=output
     )
 
-# Uygulamayı çalıştır
+
 demo.launch(share=True)
