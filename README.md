@@ -35,15 +35,15 @@ Alternatif olarak, GitHub sayfasına gidip Download ZIP seçeneğini kullanarak 
 Proje dizinine girin ve aşağıdaki komutları kullanarak gerekli Python kütüphanelerini yükleyin:
 
 
-pip install gTTS
-pip install gradio
+      pip install gTTS
+      pip install gradio
 
 **4. Uygulamayı Çalıştırın**
 
 Kurulum tamamlandıktan sonra, terminal veya komut satırına aşağıdaki komutu girerek uygulamayı çalıştırın:
 
 
-python metinden-sese-cevirme.py
+      python metinden-sese-cevirme.py
 
 Uygulama çalışmaya başladığında, metin kutusuna yazdığınız veya yüklediğiniz metni sesli olarak dinleyebilirsiniz.
 
