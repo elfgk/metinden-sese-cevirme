@@ -1,6 +1,6 @@
 # Metni veya Dosyayı Seslendirme Uygulaması
 
-Bu Python uygulaması, kullanıcıların girdikleri metni veya yükledikleri metin dosyasını sesli olarak dinlemelerini sağlar. `gTTS` (Google Text-to-Speech) kütüphanesi kullanılarak metin sesli hale getirilir. Ayrıca, kullanıcı dil seçeneği belirleyerek metni farklı dillerde de dinleyebilir.
+Bu Python uygulaması, kullanıcıların girdikleri metni veya yükledikleri metin dosyasını sesli olarak dinlemelerini sağlar. `gTTS` (Google Text-to-Speech) kütüphanesi kullanılarak metin sesli hale getirilir. Ayrıca, kullanıcı dil seçeneği belirleyerek metni farklı dillerde de dinleyebilir. --> [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/elfgk/Metin_Seslendirme)
 
 ## 🚀 Başlangıç
 
